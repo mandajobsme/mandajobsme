@@ -19,6 +19,6 @@ We welcome contributions to mandajobs.me from anyone interested in improving the
 
 ## Contact Us
 
-If you have any questions or comments about mandajobs.me, please reach out to us via our GitHub repository or email us at [insert email address].
+If you have any questions or comments about mandajobs.me, please reach out to us via our GitHub repository or email us at contato@mandajobs.me.
 
 Join us on our mission to help job seekers find their dream jobs and make the hiring process easier for everyone.
